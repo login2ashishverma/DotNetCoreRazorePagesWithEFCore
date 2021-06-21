@@ -1,0 +1,17 @@
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\bin\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.deps.json
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\bin\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.dll
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\bin\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.pdb
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\obj\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.csprojAssemblyReference.cache
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\obj\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.AssemblyInfoInputs.cache
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\obj\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.AssemblyInfo.cs
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\obj\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\obj\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.dll
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\obj\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.pdb
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\bin\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.deps.json
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\bin\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.dll
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\bin\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.pdb
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\obj\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.AssemblyInfoInputs.cache
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\obj\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.AssemblyInfo.cs
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\obj\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\obj\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.dll
+C:\Users\71000673\Project2019\DotNetCoreRazor\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp\DotnetCoreRazorWebApp.Models\obj\Debug\netstandard2.0\DotnetCoreRazorWebApp.Models.pdb

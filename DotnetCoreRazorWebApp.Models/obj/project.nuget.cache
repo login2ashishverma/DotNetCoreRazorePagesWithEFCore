@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8qd7r82YopiT+PvGhcRFI9WvfHqnRlbPh/1AzuXCNROUYw4wwa6jSkTgtIJKB7dfXtQdn/TYh7sqqacQiC2RxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\71000673\\Project2019\\DotNetCoreRazor\\DotnetCoreRazorWebApp\\DotnetCoreRazorWebApp\\DotnetCoreRazorWebApp.Models\\DotnetCoreRazorWebApp.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\71000673\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\71000673\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\71000673\\.nuget\\packages\\system.componentmodel.annotations\\6.0.0-preview.4.21253.7\\system.componentmodel.annotations.6.0.0-preview.4.21253.7.nupkg.sha512"
+  ],
+  "logs": []
+}
